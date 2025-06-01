@@ -4,9 +4,9 @@ I decided to have a career change and here I am!
 
 🎓 Software Development student at SAIT  
 💡 Transitioning from retail leadership into tech  
-🧠 Learning: Python · C# · JavaScript · HTML · CSS · SQL 
-🧰 Database: PostgreSQL · SQLite 
-📱 Design: UX 
+🧠 Learning: Python · C# · JavaScript · HTML · CSS · SQL  
+🧰 Database: PostgreSQL · SQLite  
+📱 Design: UX  
 🛠️ Building personal projects to gain real-world experience  
 💼 Open to internship and co-op opportunities!
 
